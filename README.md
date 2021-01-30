@@ -14,6 +14,6 @@ The final resulting clusters will be named and their characteristics evaluated b
 Final deliverables for this project include:
 * [Data Procurement Plan](https://github.com/mitchb63/Cluster_Segmentation_Modeling/blob/main/deliverables/Data_Procurement_Plan.pdf)
 * [Data Procurement Summary](https://github.com/mitchb63/Cluster_Segmentation_Modeling/blob/main/deliverables/Data_Procurement_Summary.pdf)
-* Data Implementation Plan
+* [Data Implementation Plan](https://github.com/mitchb63/Cluster_Segmentation_Modeling/blob/main/deliverables/Data_Implementation_Plan.pdf)
 * Segmentation Model Summary
 * Final Presentation
