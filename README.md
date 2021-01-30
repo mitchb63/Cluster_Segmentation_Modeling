@@ -2,6 +2,8 @@
 
 Creation of a synthesized, value-added cluster segmentation asset comparable to Esri's Tapestry or Claritas' Prizm.  This project was conducted as part of Wittenberg University's ANLT 530 course, Data Mining.
 
+(Work in Progress)
+
 ## Introduction
 The goal of this project was to obtain a “big data” dataset compiled around United States Census Bureau data. The dataset was to be compiled at the Zip or Zip+4 level, and use 10 year census data as the foundation with additional 5 and/or 1 year census data added if it appeared to be useful. Additional data from outside sources could also be added to the base data if it proved useful.  A segmentation model was then created using k-means clustering.  
 
@@ -10,13 +12,8 @@ The final resulting clusters will be named and their characteristics evaluated b
 
 ## Deliverables
 Final deliverables for this project include:
-
 [Data Procurement Plan](https://github.com/mitchb63/Cluster_Segmentation_Modeling/blob/main/deliverables/Data_Procurement_Plan.pdf)
-
 [Data Procurement Summary](https://github.com/mitchb63/Cluster_Segmentation_Modeling/blob/main/deliverables/Data_Procurement_Summary.pdf)
-
 Data Implementation Plan
-
 Segmentation Model Summary
-
 Final Presentation
